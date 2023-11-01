@@ -57,7 +57,7 @@
 <ul>
   
   <li><a href="https://cities-book.vercel.app/">Cities book. </a>React App <a href="https://github.com/RamilJS/cities-book"> GitRepo </a>
-    <p>Six Cities is a service for travelers . Choose one of the six popular cities to travel to and get an up-to-date list of rental offers. Detailed information about housing, the display of the object on the map, as well as the concise interface of the service will help you quickly choose the best offer.</p>
+    <p>Cities book is a service for travelers . Choose one of the six popular cities to travel to and get an up-to-date list of rental offers. Detailed information about housing, the display of the object on the map, as well as the concise interface of the service will help you quickly choose the best offer.</p>
     <p>Stack: React, Redux Toolkit, JavaScript ES6, Axios, Vitest, Leaflet</p>
   </li>
 
