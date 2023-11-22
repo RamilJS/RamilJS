@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ramil-veliev/" target="_blank">Ramil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="auto" height="32"/></h1>
 
-<p>Frontend Web Developer from Moscow, currently living in Georgia.</p>
+<p>Frontend Web Developer from Moscow</p>
 
 <h2>Contact me</h2>
 <ul>
