@@ -27,6 +27,8 @@
   <li>Redux</li>
   <li>Redux Toolkit</li>
   <li>Redux Thunk</li>
+  <li>Vue 3 Composition API</li>
+  <li>Quasar Framework</li>
   <li>Babel</li>
   <li>Webpack</li>
   <li>Axios</li>
