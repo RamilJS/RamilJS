@@ -17,7 +17,7 @@
   <li>TypeScript</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>SCSS/SASS</li>
+<!--   <li>SCSS/SASS</li> -->
 </ul>
 
 <h4>Technologies</h4>
